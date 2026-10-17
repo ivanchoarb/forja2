@@ -1,0 +1,9 @@
+{
+  "appId": "app.forja.gym",
+  "appName": "Forja",
+  "webDir": "dist",
+  "backgroundColor": "#0c0e12",
+  "android": {
+    "allowMixedContent": true
+  }
+}
