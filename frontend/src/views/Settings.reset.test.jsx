@@ -154,10 +154,10 @@ describe('Settings — reset everything', () => {
 })
 
 describe('Settings — footer', () => {
-  it('credits openGym, and shows no source link until VITE_SOURCE_URL is set', () => {
+  it('links the source code to Forja on GitHub and credits openGym', () => {
     act(() => root.render(<Settings page="about" />))
     const links = [...host.querySelectorAll('a')]
-    expect(links.find(a => a.textContent === 'Source code')).toBeUndefined()
+    expect(links.find(a => a.textContent === 'Source code').getAttribute('href')).toBe('https://github.com/ivanchoarb/forja2')
     expect(links.find(a => a.textContent === 'openGym').getAttribute('href')).toBe('https://github.com/DuarteSantos8/openGym')
   })
 })

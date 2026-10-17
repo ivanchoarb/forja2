@@ -37,12 +37,11 @@ cd frontend && npm install && npm run dev
 
 ## Antes de abrirla a usuarios
 
-1. **Publicar el código de este fork** (por ejemplo en GitHub) y compilar con
-   `VITE_SOURCE_URL=https://github.com/<tu-usuario>/forja`. La AGPL obliga a ofrecer el código
-   modificado a quien use la app por internet; el enlace aparece en Ajustes.
+1. **Mantener este repositorio público y al día** (https://github.com/ivanchoarb/forja2). La AGPL obliga
+   a ofrecer el código modificado a quien use la app por internet; el enlace ya aparece en Ajustes.
 2. **HTTPS** (conexión cifrada) en tu dominio: sin él no hay passkeys ni instalación en el teléfono.
 3. **Animaciones**: comprar licencia comercial en gymvisual.com o dejar la app sin ellas.
-4. **APK de Android**: publicar releases en tu repositorio y compilar con `VITE_UPDATE_REPO=<tu-usuario>/forja`.
+4. **APK de Android**: publicar releases en este repositorio con el `.apk` y su `.apk.sha256`; la app los detecta sola.
    Los íconos de Android se regeneran con `cd frontend && npx @capacitor/assets generate`.
 
 ## Documentación técnica
