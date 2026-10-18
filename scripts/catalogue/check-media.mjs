@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// The media licence allows 180x180 px at most in this repository (Gym visual agreement, Part A).
+// Forja's media (Free Exercise DB, catalogue/media/NOTICE.md) is kept at 360x360 px at most.
 // This reads the size straight out of every file's header (WebP and MP4, no ffmpeg needed) and
 // fails on anything larger, on a file that is not an exercise's, or on a format the app can't show.
 //
@@ -8,7 +8,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 
-const MAX = 180
+const MAX = 360
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..')
 const MEDIA = path.join(ROOT, 'catalogue/media')
 
@@ -49,7 +49,7 @@ for (const [dir, ext, size] of [['still', '.webp', webpSize], ['clip', '.mp4', m
   }
 }
 for (const f of fs.existsSync(MEDIA) ? fs.readdirSync(MEDIA) : []) {
-  if (!['still', 'clip', 'NOTICE.md'].includes(f)) problems.push(`catalogue/media/${f}: only still/, clip/ and NOTICE.md belong here`)
+  if (!['still', 'clip', 'NOTICE.md', 'free-exercise-db.json'].includes(f)) problems.push(`catalogue/media/${f}: only still/, clip/, NOTICE.md and free-exercise-db.json belong here`)
 }
 if (!fs.existsSync(path.join(MEDIA, 'NOTICE.md'))) problems.push('catalogue/media/NOTICE.md is missing (the licence requires it)')
 if (problems.length) { console.error(problems.slice(0, 40).join('\n') + (problems.length > 40 ? `\n...and ${problems.length - 40} more` : '')); process.exit(1) }

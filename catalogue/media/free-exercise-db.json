@@ -1,0 +1,2851 @@
+{
+ "0001": {
+  "fedb": "3/4 Sit-Up",
+  "images": [
+   "3_4_Sit-Up/0.jpg",
+   "3_4_Sit-Up/1.jpg"
+  ]
+ },
+ "0003": {
+  "fedb": "Air Bike",
+  "images": [
+   "Air_Bike/0.jpg",
+   "Air_Bike/1.jpg"
+  ]
+ },
+ "0006": {
+  "fedb": "Alternate Heel Touchers",
+  "images": [
+   "Alternate_Heel_Touchers/0.jpg",
+   "Alternate_Heel_Touchers/1.jpg"
+  ]
+ },
+ "0020": {
+  "fedb": "Balance Board",
+  "images": [
+   "Balance_Board/0.jpg",
+   "Balance_Board/1.jpg"
+  ]
+ },
+ "0024": {
+  "fedb": "Front Barbell Squat To A Bench",
+  "images": [
+   "Front_Barbell_Squat_To_A_Bench/0.jpg",
+   "Front_Barbell_Squat_To_A_Bench/1.jpg"
+  ]
+ },
+ "0025": {
+  "fedb": "Barbell Bench Press - Medium Grip",
+  "images": [
+   "Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+   "Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+  ]
+ },
+ "0026": {
+  "fedb": "Barbell Squat To A Bench",
+  "images": [
+   "Barbell_Squat_To_A_Bench/0.jpg",
+   "Barbell_Squat_To_A_Bench/1.jpg"
+  ]
+ },
+ "0027": {
+  "fedb": "Bent Over Barbell Row",
+  "images": [
+   "Bent_Over_Barbell_Row/0.jpg",
+   "Bent_Over_Barbell_Row/1.jpg"
+  ]
+ },
+ "0029": {
+  "fedb": "Front Squat (Clean Grip)",
+  "images": [
+   "Front_Squat_Clean_Grip/0.jpg",
+   "Front_Squat_Clean_Grip/1.jpg"
+  ]
+ },
+ "0030": {
+  "fedb": "Close-Grip Barbell Bench Press",
+  "images": [
+   "Close-Grip_Barbell_Bench_Press/0.jpg",
+   "Close-Grip_Barbell_Bench_Press/1.jpg"
+  ]
+ },
+ "0031": {
+  "fedb": "Barbell Curl",
+  "images": [
+   "Barbell_Curl/0.jpg",
+   "Barbell_Curl/1.jpg"
+  ]
+ },
+ "0032": {
+  "fedb": "Barbell Deadlift",
+  "images": [
+   "Barbell_Deadlift/0.jpg",
+   "Barbell_Deadlift/1.jpg"
+  ]
+ },
+ "0033": {
+  "fedb": "Decline Barbell Bench Press",
+  "images": [
+   "Decline_Barbell_Bench_Press/0.jpg",
+   "Decline_Barbell_Bench_Press/1.jpg"
+  ]
+ },
+ "0036": {
+  "fedb": "Wide-Grip Decline Barbell Bench Press",
+  "images": [
+   "Wide-Grip_Decline_Barbell_Bench_Press/0.jpg",
+   "Wide-Grip_Decline_Barbell_Bench_Press/1.jpg"
+  ]
+ },
+ "0037": {
+  "fedb": "Wide-Grip Decline Barbell Pullover",
+  "images": [
+   "Wide-Grip_Decline_Barbell_Pullover/0.jpg",
+   "Wide-Grip_Decline_Barbell_Pullover/1.jpg"
+  ]
+ },
+ "0040": {
+  "fedb": "Front Raise And Pullover",
+  "images": [
+   "Front_Raise_And_Pullover/0.jpg",
+   "Front_Raise_And_Pullover/1.jpg"
+  ]
+ },
+ "0042": {
+  "fedb": "Front Barbell Squat",
+  "images": [
+   "Front_Barbell_Squat/0.jpg",
+   "Front_Barbell_Squat/1.jpg"
+  ]
+ },
+ "0043": {
+  "fedb": "Barbell Full Squat",
+  "images": [
+   "Barbell_Full_Squat/0.jpg",
+   "Barbell_Full_Squat/1.jpg"
+  ]
+ },
+ "0045": {
+  "fedb": "Barbell Guillotine Bench Press",
+  "images": [
+   "Barbell_Guillotine_Bench_Press/0.jpg",
+   "Barbell_Guillotine_Bench_Press/1.jpg"
+  ]
+ },
+ "0046": {
+  "fedb": "Barbell Hack Squat",
+  "images": [
+   "Barbell_Hack_Squat/0.jpg",
+   "Barbell_Hack_Squat/1.jpg"
+  ]
+ },
+ "0047": {
+  "fedb": "Barbell Incline Bench Press - Medium Grip",
+  "images": [
+   "Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+   "Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+  ]
+ },
+ "0050": {
+  "fedb": "Barbell Incline Shoulder Raise",
+  "images": [
+   "Barbell_Incline_Shoulder_Raise/0.jpg",
+   "Barbell_Incline_Shoulder_Raise/1.jpg"
+  ]
+ },
+ "0054": {
+  "fedb": "Barbell Lunge",
+  "images": [
+   "Barbell_Lunge/0.jpg",
+   "Barbell_Lunge/1.jpg"
+  ]
+ },
+ "0065": {
+  "fedb": "One Arm Floor Press",
+  "images": [
+   "One_Arm_Floor_Press/0.jpg",
+   "One_Arm_Floor_Press/1.jpg"
+  ]
+ },
+ "0066": {
+  "fedb": "One-Arm Side Deadlift",
+  "images": [
+   "One-Arm_Side_Deadlift/0.jpg",
+   "One-Arm_Side_Deadlift/1.jpg"
+  ]
+ },
+ "0068": {
+  "fedb": "One Leg Barbell Squat",
+  "images": [
+   "One_Leg_Barbell_Squat/0.jpg",
+   "One_Leg_Barbell_Squat/1.jpg"
+  ]
+ },
+ "0076": {
+  "fedb": "Barbell Rear Delt Row",
+  "images": [
+   "Barbell_Rear_Delt_Row/0.jpg",
+   "Barbell_Rear_Delt_Row/1.jpg"
+  ]
+ },
+ "0080": {
+  "fedb": "Reverse Barbell Curl",
+  "images": [
+   "Reverse_Barbell_Curl/0.jpg",
+   "Reverse_Barbell_Curl/1.jpg"
+  ]
+ },
+ "0083": {
+  "fedb": "Barbell Rollout from Bench",
+  "images": [
+   "Barbell_Rollout_from_Bench/0.jpg",
+   "Barbell_Rollout_from_Bench/1.jpg"
+  ]
+ },
+ "0085": {
+  "fedb": "Romanian Deadlift",
+  "images": [
+   "Romanian_Deadlift/0.jpg",
+   "Romanian_Deadlift/1.jpg"
+  ]
+ },
+ "0088": {
+  "fedb": "Barbell Seated Calf Raise",
+  "images": [
+   "Barbell_Seated_Calf_Raise/0.jpg",
+   "Barbell_Seated_Calf_Raise/1.jpg"
+  ]
+ },
+ "0089": {
+  "fedb": "Seated Close-Grip Concentration Barbell Curl",
+  "images": [
+   "Seated_Close-Grip_Concentration_Barbell_Curl/0.jpg",
+   "Seated_Close-Grip_Concentration_Barbell_Curl/1.jpg"
+  ]
+ },
+ "0094": {
+  "fedb": "Seated Barbell Twist",
+  "images": [
+   "Seated_Barbell_Twist/0.jpg",
+   "Seated_Barbell_Twist/1.jpg"
+  ]
+ },
+ "0095": {
+  "fedb": "Barbell Shrug",
+  "images": [
+   "Barbell_Shrug/0.jpg",
+   "Barbell_Shrug/1.jpg"
+  ]
+ },
+ "0098": {
+  "fedb": "Barbell Side Split Squat",
+  "images": [
+   "Barbell_Side_Split_Squat/0.jpg",
+   "Barbell_Side_Split_Squat/1.jpg"
+  ]
+ },
+ "0105": {
+  "fedb": "Standing Bradford Press",
+  "images": [
+   "Standing_Bradford_Press/0.jpg",
+   "Standing_Bradford_Press/1.jpg"
+  ]
+ },
+ "0106": {
+  "fedb": "Close-Grip Standing Barbell Curl",
+  "images": [
+   "Close-Grip_Standing_Barbell_Curl/0.jpg",
+   "Close-Grip_Standing_Barbell_Curl/1.jpg"
+  ]
+ },
+ "0107": {
+  "fedb": "Standing Front Barbell Raise Over Head",
+  "images": [
+   "Standing_Front_Barbell_Raise_Over_Head/0.jpg",
+   "Standing_Front_Barbell_Raise_Over_Head/1.jpg"
+  ]
+ },
+ "0109": {
+  "fedb": "Standing Overhead Barbell Triceps Extension",
+  "images": [
+   "Standing_Overhead_Barbell_Triceps_Extension/0.jpg",
+   "Standing_Overhead_Barbell_Triceps_Extension/1.jpg"
+  ]
+ },
+ "0113": {
+  "fedb": "Wide-Grip Standing Barbell Curl",
+  "images": [
+   "Wide-Grip_Standing_Barbell_Curl/0.jpg",
+   "Wide-Grip_Standing_Barbell_Curl/1.jpg"
+  ]
+ },
+ "0114": {
+  "fedb": "Barbell Step Ups",
+  "images": [
+   "Barbell_Step_Ups/0.jpg",
+   "Barbell_Step_Ups/1.jpg"
+  ]
+ },
+ "0115": {
+  "fedb": "Stiff Leg Barbell Good Morning",
+  "images": [
+   "Stiff_Leg_Barbell_Good_Morning/0.jpg",
+   "Stiff_Leg_Barbell_Good_Morning/1.jpg"
+  ]
+ },
+ "0120": {
+  "fedb": "Upright Barbell Row",
+  "images": [
+   "Upright_Barbell_Row/0.jpg",
+   "Upright_Barbell_Row/1.jpg"
+  ]
+ },
+ "0122": {
+  "fedb": "Wide-Grip Barbell Bench Press",
+  "images": [
+   "Wide-Grip_Barbell_Bench_Press/0.jpg",
+   "Wide-Grip_Barbell_Bench_Press/1.jpg"
+  ]
+ },
+ "0124": {
+  "fedb": "Wide Stance Barbell Squat",
+  "images": [
+   "Wide_Stance_Barbell_Squat/0.jpg",
+   "Wide_Stance_Barbell_Squat/1.jpg"
+  ]
+ },
+ "0128": {
+  "fedb": "Battling Ropes",
+  "images": [
+   "Battling_Ropes/0.jpg",
+   "Battling_Ropes/1.jpg"
+  ]
+ },
+ "0137": {
+  "fedb": "Body-Up",
+  "images": [
+   "Body-Up/0.jpg",
+   "Body-Up/1.jpg"
+  ]
+ },
+ "0138": {
+  "fedb": "Bottoms Up",
+  "images": [
+   "Bottoms_Up/0.jpg",
+   "Bottoms_Up/1.jpg"
+  ]
+ },
+ "0145": {
+  "fedb": "Butt Lift (Bridge)",
+  "images": [
+   "Butt_Lift_Bridge/0.jpg",
+   "Butt_Lift_Bridge/1.jpg"
+  ]
+ },
+ "0148": {
+  "fedb": "Alternating Cable Shoulder Press",
+  "images": [
+   "Alternating_Cable_Shoulder_Press/0.jpg",
+   "Alternating_Cable_Shoulder_Press/1.jpg"
+  ]
+ },
+ "0157": {
+  "fedb": "Cable Deadlifts",
+  "images": [
+   "Cable_Deadlifts/0.jpg",
+   "Cable_Deadlifts/1.jpg"
+  ]
+ },
+ "0162": {
+  "fedb": "Front Cable Raise",
+  "images": [
+   "Front_Cable_Raise/0.jpg",
+   "Front_Cable_Raise/1.jpg"
+  ]
+ },
+ "0168": {
+  "fedb": "Cable Hip Adduction",
+  "images": [
+   "Cable_Hip_Adduction/0.jpg",
+   "Cable_Hip_Adduction/1.jpg"
+  ]
+ },
+ "0171": {
+  "fedb": "Incline Cable Flye",
+  "images": [
+   "Incline_Cable_Flye/0.jpg",
+   "Incline_Cable_Flye/1.jpg"
+  ]
+ },
+ "0172": {
+  "fedb": "Cable Incline Pushdown",
+  "images": [
+   "Cable_Incline_Pushdown/0.jpg",
+   "Cable_Incline_Pushdown/1.jpg"
+  ]
+ },
+ "0173": {
+  "fedb": "Cable Incline Triceps Extension",
+  "images": [
+   "Cable_Incline_Triceps_Extension/0.jpg",
+   "Cable_Incline_Triceps_Extension/1.jpg"
+  ]
+ },
+ "0174": {
+  "fedb": "Cable Judo Flip",
+  "images": [
+   "Cable_Judo_Flip/0.jpg",
+   "Cable_Judo_Flip/1.jpg"
+  ]
+ },
+ "0176": {
+  "fedb": "Kneeling Cable Triceps Extension",
+  "images": [
+   "Kneeling_Cable_Triceps_Extension/0.jpg",
+   "Kneeling_Cable_Triceps_Extension/1.jpg"
+  ]
+ },
+ "0183": {
+  "fedb": "Lying Cable Curl",
+  "images": [
+   "Lying_Cable_Curl/0.jpg",
+   "Lying_Cable_Curl/1.jpg"
+  ]
+ },
+ "0187": {
+  "fedb": "Cable Lying Triceps Extension",
+  "images": [
+   "Cable_Lying_Triceps_Extension/0.jpg",
+   "Cable_Lying_Triceps_Extension/1.jpg"
+  ]
+ },
+ "0194": {
+  "fedb": "Cable Rope Overhead Triceps Extension",
+  "images": [
+   "Cable_Rope_Overhead_Triceps_Extension/0.jpg",
+   "Cable_Rope_Overhead_Triceps_Extension/1.jpg"
+  ]
+ },
+ "0195": {
+  "fedb": "Cable Preacher Curl",
+  "images": [
+   "Cable_Preacher_Curl/0.jpg",
+   "Cable_Preacher_Curl/1.jpg"
+  ]
+ },
+ "0206": {
+  "fedb": "Reverse Cable Curl",
+  "images": [
+   "Reverse_Cable_Curl/0.jpg",
+   "Reverse_Cable_Curl/1.jpg"
+  ]
+ },
+ "0212": {
+  "fedb": "Cable Seated Crunch",
+  "images": [
+   "Cable_Seated_Crunch/0.jpg",
+   "Cable_Seated_Crunch/1.jpg"
+  ]
+ },
+ "0215": {
+  "fedb": "Cable Seated Lateral Raise",
+  "images": [
+   "Cable_Seated_Lateral_Raise/0.jpg",
+   "Cable_Seated_Lateral_Raise/1.jpg"
+  ]
+ },
+ "0219": {
+  "fedb": "Cable Shoulder Press",
+  "images": [
+   "Cable_Shoulder_Press/0.jpg",
+   "Cable_Shoulder_Press/1.jpg"
+  ]
+ },
+ "0220": {
+  "fedb": "Cable Shrugs",
+  "images": [
+   "Cable_Shrugs/0.jpg",
+   "Cable_Shrugs/1.jpg"
+  ]
+ },
+ "0221": {
+  "fedb": "Bosu Ball Cable Crunch With Side Bends",
+  "images": [
+   "Bosu_Ball_Cable_Crunch_With_Side_Bends/0.jpg",
+   "Bosu_Ball_Cable_Crunch_With_Side_Bends/1.jpg"
+  ]
+ },
+ "0230": {
+  "fedb": "Standing Cable Lift",
+  "images": [
+   "Standing_Cable_Lift/0.jpg",
+   "Standing_Cable_Lift/1.jpg"
+  ]
+ },
+ "0237": {
+  "fedb": "Rope Straight-Arm Pulldown",
+  "images": [
+   "Rope_Straight-Arm_Pulldown/0.jpg",
+   "Rope_Straight-Arm_Pulldown/1.jpg"
+  ]
+ },
+ "0238": {
+  "fedb": "Straight-Arm Pulldown",
+  "images": [
+   "Straight-Arm_Pulldown/0.jpg",
+   "Straight-Arm_Pulldown/1.jpg"
+  ]
+ },
+ "0245": {
+  "fedb": "Underhand Cable Pulldowns",
+  "images": [
+   "Underhand_Cable_Pulldowns/0.jpg",
+   "Underhand_Cable_Pulldowns/1.jpg"
+  ]
+ },
+ "0246": {
+  "fedb": "Upright Cable Row",
+  "images": [
+   "Upright_Cable_Row/0.jpg",
+   "Upright_Cable_Row/1.jpg"
+  ]
+ },
+ "0247": {
+  "fedb": "Cable Wrist Curl",
+  "images": [
+   "Cable_Wrist_Curl/0.jpg",
+   "Cable_Wrist_Curl/1.jpg"
+  ]
+ },
+ "0258": {
+  "fedb": "Clock Push-Up",
+  "images": [
+   "Clock_Push-Up/0.jpg",
+   "Clock_Push-Up/1.jpg"
+  ]
+ },
+ "0260": {
+  "fedb": "Cocoons",
+  "images": [
+   "Cocoons/0.jpg",
+   "Cocoons/1.jpg"
+  ]
+ },
+ "0262": {
+  "fedb": "Cross-Body Crunch",
+  "images": [
+   "Cross-Body_Crunch/0.jpg",
+   "Cross-Body_Crunch/1.jpg"
+  ]
+ },
+ "0267": {
+  "fedb": "Crunch - Hands Overhead",
+  "images": [
+   "Crunch_-_Hands_Overhead/0.jpg",
+   "Crunch_-_Hands_Overhead/1.jpg"
+  ]
+ },
+ "0276": {
+  "fedb": "Dead Bug",
+  "images": [
+   "Dead_Bug/0.jpg",
+   "Dead_Bug/1.jpg"
+  ]
+ },
+ "0277": {
+  "fedb": "Decline Crunch",
+  "images": [
+   "Decline_Crunch/0.jpg",
+   "Decline_Crunch/1.jpg"
+  ]
+ },
+ "0279": {
+  "fedb": "Decline Push-Up",
+  "images": [
+   "Decline_Push-Up/0.jpg",
+   "Decline_Push-Up/1.jpg"
+  ]
+ },
+ "0284": {
+  "fedb": "Donkey Calf Raises",
+  "images": [
+   "Donkey_Calf_Raises/0.jpg",
+   "Donkey_Calf_Raises/1.jpg"
+  ]
+ },
+ "0285": {
+  "fedb": "Dumbbell Alternate Bicep Curl",
+  "images": [
+   "Dumbbell_Alternate_Bicep_Curl/0.jpg",
+   "Dumbbell_Alternate_Bicep_Curl/1.jpg"
+  ]
+ },
+ "0289": {
+  "fedb": "Dumbbell Bench Press",
+  "images": [
+   "Dumbbell_Bench_Press/0.jpg",
+   "Dumbbell_Bench_Press/1.jpg"
+  ]
+ },
+ "0290": {
+  "fedb": "Seated Dumbbell Press",
+  "images": [
+   "Seated_Dumbbell_Press/0.jpg",
+   "Seated_Dumbbell_Press/1.jpg"
+  ]
+ },
+ "0291": {
+  "fedb": "Dumbbell Squat To A Bench",
+  "images": [
+   "Dumbbell_Squat_To_A_Bench/0.jpg",
+   "Dumbbell_Squat_To_A_Bench/1.jpg"
+  ]
+ },
+ "0293": {
+  "fedb": "Bent Over Two-Dumbbell Row",
+  "images": [
+   "Bent_Over_Two-Dumbbell_Row/0.jpg",
+   "Bent_Over_Two-Dumbbell_Row/1.jpg"
+  ]
+ },
+ "0294": {
+  "fedb": "Dumbbell Bicep Curl",
+  "images": [
+   "Dumbbell_Bicep_Curl/0.jpg",
+   "Dumbbell_Bicep_Curl/1.jpg"
+  ]
+ },
+ "0295": {
+  "fedb": "Dumbbell Clean",
+  "images": [
+   "Dumbbell_Clean/0.jpg",
+   "Dumbbell_Clean/1.jpg"
+  ]
+ },
+ "0298": {
+  "fedb": "Cross Body Hammer Curl",
+  "images": [
+   "Cross_Body_Hammer_Curl/0.jpg",
+   "Cross_Body_Hammer_Curl/1.jpg"
+  ]
+ },
+ "0301": {
+  "fedb": "Decline Dumbbell Bench Press",
+  "images": [
+   "Decline_Dumbbell_Bench_Press/0.jpg",
+   "Decline_Dumbbell_Bench_Press/1.jpg"
+  ]
+ },
+ "0302": {
+  "fedb": "Decline Dumbbell Flyes",
+  "images": [
+   "Decline_Dumbbell_Flyes/0.jpg",
+   "Decline_Dumbbell_Flyes/1.jpg"
+  ]
+ },
+ "0306": {
+  "fedb": "Decline Dumbbell Triceps Extension",
+  "images": [
+   "Decline_Dumbbell_Triceps_Extension/0.jpg",
+   "Decline_Dumbbell_Triceps_Extension/1.jpg"
+  ]
+ },
+ "0308": {
+  "fedb": "Dumbbell Flyes",
+  "images": [
+   "Dumbbell_Flyes/0.jpg",
+   "Dumbbell_Flyes/1.jpg"
+  ]
+ },
+ "0310": {
+  "fedb": "Front Dumbbell Raise",
+  "images": [
+   "Front_Dumbbell_Raise/0.jpg",
+   "Front_Dumbbell_Raise/1.jpg"
+  ]
+ },
+ "0314": {
+  "fedb": "Incline Dumbbell Press",
+  "images": [
+   "Incline_Dumbbell_Press/0.jpg",
+   "Incline_Dumbbell_Press/1.jpg"
+  ]
+ },
+ "0318": {
+  "fedb": "Incline Dumbbell Curl",
+  "images": [
+   "Incline_Dumbbell_Curl/0.jpg",
+   "Incline_Dumbbell_Curl/1.jpg"
+  ]
+ },
+ "0319": {
+  "fedb": "Incline Dumbbell Flyes",
+  "images": [
+   "Incline_Dumbbell_Flyes/0.jpg",
+   "Incline_Dumbbell_Flyes/1.jpg"
+  ]
+ },
+ "0321": {
+  "fedb": "Hammer Grip Incline DB Bench Press",
+  "images": [
+   "Hammer_Grip_Incline_DB_Bench_Press/0.jpg",
+   "Hammer_Grip_Incline_DB_Bench_Press/1.jpg"
+  ]
+ },
+ "0322": {
+  "fedb": "Incline Inner Biceps Curl",
+  "images": [
+   "Incline_Inner_Biceps_Curl/0.jpg",
+   "Incline_Inner_Biceps_Curl/1.jpg"
+  ]
+ },
+ "0323": {
+  "fedb": "One-Arm Incline Lateral Raise",
+  "images": [
+   "One-Arm_Incline_Lateral_Raise/0.jpg",
+   "One-Arm_Incline_Lateral_Raise/1.jpg"
+  ]
+ },
+ "0327": {
+  "fedb": "Dumbbell Incline Row",
+  "images": [
+   "Dumbbell_Incline_Row/0.jpg",
+   "Dumbbell_Incline_Row/1.jpg"
+  ]
+ },
+ "0328": {
+  "fedb": "Dumbbell Incline Shoulder Raise",
+  "images": [
+   "Dumbbell_Incline_Shoulder_Raise/0.jpg",
+   "Dumbbell_Incline_Shoulder_Raise/1.jpg"
+  ]
+ },
+ "0333": {
+  "fedb": "Tricep Dumbbell Kickback",
+  "images": [
+   "Tricep_Dumbbell_Kickback/0.jpg",
+   "Tricep_Dumbbell_Kickback/1.jpg"
+  ]
+ },
+ "0336": {
+  "fedb": "Dumbbell Lunges",
+  "images": [
+   "Dumbbell_Lunges/0.jpg",
+   "Dumbbell_Lunges/1.jpg"
+  ]
+ },
+ "0345": {
+  "fedb": "Dumbbell Lying One-Arm Rear Lateral Raise",
+  "images": [
+   "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise/0.jpg",
+   "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise/1.jpg"
+  ]
+ },
+ "0347": {
+  "fedb": "Dumbbell Lying Pronation",
+  "images": [
+   "Dumbbell_Lying_Pronation/0.jpg",
+   "Dumbbell_Lying_Pronation/1.jpg"
+  ]
+ },
+ "0348": {
+  "fedb": "Dumbbell Lying Rear Lateral Raise",
+  "images": [
+   "Dumbbell_Lying_Rear_Lateral_Raise/0.jpg",
+   "Dumbbell_Lying_Rear_Lateral_Raise/1.jpg"
+  ]
+ },
+ "0349": {
+  "fedb": "Dumbbell Lying Supination",
+  "images": [
+   "Dumbbell_Lying_Supination/0.jpg",
+   "Dumbbell_Lying_Supination/1.jpg"
+  ]
+ },
+ "0350": {
+  "fedb": "Lying Supine Dumbbell Curl",
+  "images": [
+   "Lying_Supine_Dumbbell_Curl/0.jpg",
+   "Lying_Supine_Dumbbell_Curl/1.jpg"
+  ]
+ },
+ "0351": {
+  "fedb": "Lying Dumbbell Tricep Extension",
+  "images": [
+   "Lying_Dumbbell_Tricep_Extension/0.jpg",
+   "Lying_Dumbbell_Tricep_Extension/1.jpg"
+  ]
+ },
+ "0352": {
+  "fedb": "Dumbbell Bench Press with Neutral Grip",
+  "images": [
+   "Dumbbell_Bench_Press_with_Neutral_Grip/0.jpg",
+   "Dumbbell_Bench_Press_with_Neutral_Grip/1.jpg"
+  ]
+ },
+ "0361": {
+  "fedb": "Dumbbell One-Arm Shoulder Press",
+  "images": [
+   "Dumbbell_One-Arm_Shoulder_Press/0.jpg",
+   "Dumbbell_One-Arm_Shoulder_Press/1.jpg"
+  ]
+ },
+ "0363": {
+  "fedb": "Dumbbell One-Arm Upright Row",
+  "images": [
+   "Dumbbell_One-Arm_Upright_Row/0.jpg",
+   "Dumbbell_One-Arm_Upright_Row/1.jpg"
+  ]
+ },
+ "0369": {
+  "fedb": "Palms-Up Dumbbell Wrist Curl Over A Bench",
+  "images": [
+   "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench/0.jpg",
+   "Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench/1.jpg"
+  ]
+ },
+ "0373": {
+  "fedb": "Dumbbell Tricep Extension -Pronated Grip",
+  "images": [
+   "Dumbbell_Tricep_Extension_-Pronated_Grip/0.jpg",
+   "Dumbbell_Tricep_Extension_-Pronated_Grip/1.jpg"
+  ]
+ },
+ "0374": {
+  "fedb": "Dumbbell Prone Incline Curl",
+  "images": [
+   "Dumbbell_Prone_Incline_Curl/0.jpg",
+   "Dumbbell_Prone_Incline_Curl/1.jpg"
+  ]
+ },
+ "0376": {
+  "fedb": "Dumbbell Raise",
+  "images": [
+   "Dumbbell_Raise/0.jpg",
+   "Dumbbell_Raise/1.jpg"
+  ]
+ },
+ "0381": {
+  "fedb": "Dumbbell Rear Lunge",
+  "images": [
+   "Dumbbell_Rear_Lunge/0.jpg",
+   "Dumbbell_Rear_Lunge/1.jpg"
+  ]
+ },
+ "0391": {
+  "fedb": "Seated Dumbbell Curl",
+  "images": [
+   "Seated_Dumbbell_Curl/0.jpg",
+   "Seated_Dumbbell_Curl/1.jpg"
+  ]
+ },
+ "0393": {
+  "fedb": "Seated Dumbbell Inner Biceps Curl",
+  "images": [
+   "Seated_Dumbbell_Inner_Biceps_Curl/0.jpg",
+   "Seated_Dumbbell_Inner_Biceps_Curl/1.jpg"
+  ]
+ },
+ "0400": {
+  "fedb": "Dumbbell Seated One-Leg Calf Raise",
+  "images": [
+   "Dumbbell_Seated_One-Leg_Calf_Raise/0.jpg",
+   "Dumbbell_Seated_One-Leg_Calf_Raise/1.jpg"
+  ]
+ },
+ "0401": {
+  "fedb": "Seated Dumbbell Palms-Up Wrist Curl",
+  "images": [
+   "Seated_Dumbbell_Palms-Up_Wrist_Curl/0.jpg",
+   "Seated_Dumbbell_Palms-Up_Wrist_Curl/1.jpg"
+  ]
+ },
+ "0406": {
+  "fedb": "Dumbbell Shrug",
+  "images": [
+   "Dumbbell_Shrug/0.jpg",
+   "Dumbbell_Shrug/1.jpg"
+  ]
+ },
+ "0407": {
+  "fedb": "Dumbbell Side Bend",
+  "images": [
+   "Dumbbell_Side_Bend/0.jpg",
+   "Dumbbell_Side_Bend/1.jpg"
+  ]
+ },
+ "0413": {
+  "fedb": "Dumbbell Squat",
+  "images": [
+   "Dumbbell_Squat/0.jpg",
+   "Dumbbell_Squat/1.jpg"
+  ]
+ },
+ "0417": {
+  "fedb": "Standing Dumbbell Calf Raise",
+  "images": [
+   "Standing_Dumbbell_Calf_Raise/0.jpg",
+   "Standing_Dumbbell_Calf_Raise/1.jpg"
+  ]
+ },
+ "0418": {
+  "fedb": "Standing Concentration Curl",
+  "images": [
+   "Standing_Concentration_Curl/0.jpg",
+   "Standing_Concentration_Curl/1.jpg"
+  ]
+ },
+ "0423": {
+  "fedb": "Standing One-Arm Dumbbell Triceps Extension",
+  "images": [
+   "Standing_One-Arm_Dumbbell_Triceps_Extension/0.jpg",
+   "Standing_One-Arm_Dumbbell_Triceps_Extension/1.jpg"
+  ]
+ },
+ "0424": {
+  "fedb": "Standing Palm-In One-Arm Dumbbell Press",
+  "images": [
+   "Standing_Palm-In_One-Arm_Dumbbell_Press/0.jpg",
+   "Standing_Palm-In_One-Arm_Dumbbell_Press/1.jpg"
+  ]
+ },
+ "0427": {
+  "fedb": "Standing Palms-In Dumbbell Press",
+  "images": [
+   "Standing_Palms-In_Dumbbell_Press/0.jpg",
+   "Standing_Palms-In_Dumbbell_Press/1.jpg"
+  ]
+ },
+ "0429": {
+  "fedb": "Standing Dumbbell Reverse Curl",
+  "images": [
+   "Standing_Dumbbell_Reverse_Curl/0.jpg",
+   "Standing_Dumbbell_Reverse_Curl/1.jpg"
+  ]
+ },
+ "0430": {
+  "fedb": "Standing Dumbbell Triceps Extension",
+  "images": [
+   "Standing_Dumbbell_Triceps_Extension/0.jpg",
+   "Standing_Dumbbell_Triceps_Extension/1.jpg"
+  ]
+ },
+ "0431": {
+  "fedb": "Dumbbell Step Ups",
+  "images": [
+   "Dumbbell_Step_Ups/0.jpg",
+   "Dumbbell_Step_Ups/1.jpg"
+  ]
+ },
+ "0433": {
+  "fedb": "Straight-Arm Dumbbell Pullover",
+  "images": [
+   "Straight-Arm_Dumbbell_Pullover/0.jpg",
+   "Straight-Arm_Dumbbell_Pullover/1.jpg"
+  ]
+ },
+ "0443": {
+  "fedb": "Elbow to Knee",
+  "images": [
+   "Elbow_to_Knee/0.jpg",
+   "Elbow_to_Knee/1.jpg"
+  ]
+ },
+ "0455": {
+  "fedb": "Finger Curls",
+  "images": [
+   "Finger_Curls/0.jpg",
+   "Finger_Curls/1.jpg"
+  ]
+ },
+ "0459": {
+  "fedb": "Flutter Kicks",
+  "images": [
+   "Flutter_Kicks/0.jpg",
+   "Flutter_Kicks/1.jpg"
+  ]
+ },
+ "0466": {
+  "fedb": "Gironda Sternum Chins",
+  "images": [
+   "Gironda_Sternum_Chins/0.jpg",
+   "Gironda_Sternum_Chins/1.jpg"
+  ]
+ },
+ "0471": {
+  "fedb": "Handstand Push-Ups",
+  "images": [
+   "Handstand_Push-Ups/0.jpg",
+   "Handstand_Push-Ups/1.jpg"
+  ]
+ },
+ "0472": {
+  "fedb": "Hanging Leg Raise",
+  "images": [
+   "Hanging_Leg_Raise/0.jpg",
+   "Hanging_Leg_Raise/1.jpg"
+  ]
+ },
+ "0473": {
+  "fedb": "Hanging Pike",
+  "images": [
+   "Hanging_Pike/0.jpg",
+   "Hanging_Pike/1.jpg"
+  ]
+ },
+ "0484": {
+  "fedb": "Bent-Knee Hip Raise",
+  "images": [
+   "Bent-Knee_Hip_Raise/0.jpg",
+   "Bent-Knee_Hip_Raise/1.jpg"
+  ]
+ },
+ "0492": {
+  "fedb": "Incline Push-Up Depth Jump",
+  "images": [
+   "Incline_Push-Up_Depth_Jump/0.jpg",
+   "Incline_Push-Up_Depth_Jump/1.jpg"
+  ]
+ },
+ "0493": {
+  "fedb": "Incline Push-Up",
+  "images": [
+   "Incline_Push-Up/0.jpg",
+   "Incline_Push-Up/1.jpg"
+  ]
+ },
+ "0494": {
+  "fedb": "Incline Push-Up Reverse Grip",
+  "images": [
+   "Incline_Push-Up_Reverse_Grip/0.jpg",
+   "Incline_Push-Up_Reverse_Grip/1.jpg"
+  ]
+ },
+ "0498": {
+  "fedb": "Inverted Row with Straps",
+  "images": [
+   "Inverted_Row_with_Straps/0.jpg",
+   "Inverted_Row_with_Straps/1.jpg"
+  ]
+ },
+ "0499": {
+  "fedb": "Inverted Row",
+  "images": [
+   "Inverted_Row/0.jpg",
+   "Inverted_Row/1.jpg"
+  ]
+ },
+ "0500": {
+  "fedb": "Isometric Wipers",
+  "images": [
+   "Isometric_Wipers/0.jpg",
+   "Isometric_Wipers/1.jpg"
+  ]
+ },
+ "0507": {
+  "fedb": "Jackknife Sit-Up",
+  "images": [
+   "Jackknife_Sit-Up/0.jpg",
+   "Jackknife_Sit-Up/1.jpg"
+  ]
+ },
+ "0508": {
+  "fedb": "Janda Sit-Up",
+  "images": [
+   "Janda_Sit-Up/0.jpg",
+   "Janda_Sit-Up/1.jpg"
+  ]
+ },
+ "0517": {
+  "fedb": "Advanced Kettlebell Windmill",
+  "images": [
+   "Advanced_Kettlebell_Windmill/0.jpg",
+   "Advanced_Kettlebell_Windmill/1.jpg"
+  ]
+ },
+ "0518": {
+  "fedb": "Alternating Hang Clean",
+  "images": [
+   "Alternating_Hang_Clean/0.jpg",
+   "Alternating_Hang_Clean/1.jpg"
+  ]
+ },
+ "0520": {
+  "fedb": "Alternating Kettlebell Press",
+  "images": [
+   "Alternating_Kettlebell_Press/0.jpg",
+   "Alternating_Kettlebell_Press/1.jpg"
+  ]
+ },
+ "0521": {
+  "fedb": "Alternating Renegade Row",
+  "images": [
+   "Alternating_Renegade_Row/0.jpg",
+   "Alternating_Renegade_Row/1.jpg"
+  ]
+ },
+ "0522": {
+  "fedb": "Alternating Kettlebell Row",
+  "images": [
+   "Alternating_Kettlebell_Row/0.jpg",
+   "Alternating_Kettlebell_Row/1.jpg"
+  ]
+ },
+ "0523": {
+  "fedb": "Kettlebell Arnold Press",
+  "images": [
+   "Kettlebell_Arnold_Press/0.jpg",
+   "Kettlebell_Arnold_Press/1.jpg"
+  ]
+ },
+ "0525": {
+  "fedb": "Bottoms-Up Clean From The Hang Position",
+  "images": [
+   "Bottoms-Up_Clean_From_The_Hang_Position/0.jpg",
+   "Bottoms-Up_Clean_From_The_Hang_Position/1.jpg"
+  ]
+ },
+ "0526": {
+  "fedb": "Double Kettlebell Alternating Hang Clean",
+  "images": [
+   "Double_Kettlebell_Alternating_Hang_Clean/0.jpg",
+   "Double_Kettlebell_Alternating_Hang_Clean/1.jpg"
+  ]
+ },
+ "0527": {
+  "fedb": "Double Kettlebell Jerk",
+  "images": [
+   "Double_Kettlebell_Jerk/0.jpg",
+   "Double_Kettlebell_Jerk/1.jpg"
+  ]
+ },
+ "0528": {
+  "fedb": "Double Kettlebell Push Press",
+  "images": [
+   "Double_Kettlebell_Push_Press/0.jpg",
+   "Double_Kettlebell_Push_Press/1.jpg"
+  ]
+ },
+ "0529": {
+  "fedb": "Double Kettlebell Snatch",
+  "images": [
+   "Double_Kettlebell_Snatch/0.jpg",
+   "Double_Kettlebell_Snatch/1.jpg"
+  ]
+ },
+ "0530": {
+  "fedb": "Double Kettlebell Windmill",
+  "images": [
+   "Double_Kettlebell_Windmill/0.jpg",
+   "Double_Kettlebell_Windmill/1.jpg"
+  ]
+ },
+ "0531": {
+  "fedb": "Extended Range One-Arm Kettlebell Floor Press",
+  "images": [
+   "Extended_Range_One-Arm_Kettlebell_Floor_Press/0.jpg",
+   "Extended_Range_One-Arm_Kettlebell_Floor_Press/1.jpg"
+  ]
+ },
+ "0532": {
+  "fedb": "Kettlebell Figure 8",
+  "images": [
+   "Kettlebell_Figure_8/0.jpg",
+   "Kettlebell_Figure_8/1.jpg"
+  ]
+ },
+ "0535": {
+  "fedb": "Kettlebell Hang Clean",
+  "images": [
+   "Kettlebell_Hang_Clean/0.jpg",
+   "Kettlebell_Hang_Clean/1.jpg"
+  ]
+ },
+ "0537": {
+  "fedb": "One-Arm Kettlebell Clean and Jerk",
+  "images": [
+   "One-Arm_Kettlebell_Clean_and_Jerk/0.jpg",
+   "One-Arm_Kettlebell_Clean_and_Jerk/1.jpg"
+  ]
+ },
+ "0538": {
+  "fedb": "One-Arm Kettlebell Jerk",
+  "images": [
+   "One-Arm_Kettlebell_Jerk/0.jpg",
+   "One-Arm_Kettlebell_Jerk/1.jpg"
+  ]
+ },
+ "0539": {
+  "fedb": "One-Arm Kettlebell Military Press To The Side",
+  "images": [
+   "One-Arm_Kettlebell_Military_Press_To_The_Side/0.jpg",
+   "One-Arm_Kettlebell_Military_Press_To_The_Side/1.jpg"
+  ]
+ },
+ "0540": {
+  "fedb": "One-Arm Kettlebell Push Press",
+  "images": [
+   "One-Arm_Kettlebell_Push_Press/0.jpg",
+   "One-Arm_Kettlebell_Push_Press/1.jpg"
+  ]
+ },
+ "0541": {
+  "fedb": "One-Arm Kettlebell Row",
+  "images": [
+   "One-Arm_Kettlebell_Row/0.jpg",
+   "One-Arm_Kettlebell_Row/1.jpg"
+  ]
+ },
+ "0542": {
+  "fedb": "One-Arm Kettlebell Snatch",
+  "images": [
+   "One-Arm_Kettlebell_Snatch/0.jpg",
+   "One-Arm_Kettlebell_Snatch/1.jpg"
+  ]
+ },
+ "0544": {
+  "fedb": "Kettlebell Pistol Squat",
+  "images": [
+   "Kettlebell_Pistol_Squat/0.jpg",
+   "Kettlebell_Pistol_Squat/1.jpg"
+  ]
+ },
+ "0545": {
+  "fedb": "Plyo Kettlebell Pushups",
+  "images": [
+   "Plyo_Kettlebell_Pushups/0.jpg",
+   "Plyo_Kettlebell_Pushups/1.jpg"
+  ]
+ },
+ "0546": {
+  "fedb": "Kettlebell Seated Press",
+  "images": [
+   "Kettlebell_Seated_Press/0.jpg",
+   "Kettlebell_Seated_Press/1.jpg"
+  ]
+ },
+ "0547": {
+  "fedb": "Kettlebell Seesaw Press",
+  "images": [
+   "Kettlebell_Seesaw_Press/0.jpg",
+   "Kettlebell_Seesaw_Press/1.jpg"
+  ]
+ },
+ "0548": {
+  "fedb": "Kettlebell Sumo High Pull",
+  "images": [
+   "Kettlebell_Sumo_High_Pull/0.jpg",
+   "Kettlebell_Sumo_High_Pull/1.jpg"
+  ]
+ },
+ "0550": {
+  "fedb": "Kettlebell Thruster",
+  "images": [
+   "Kettlebell_Thruster/0.jpg",
+   "Kettlebell_Thruster/1.jpg"
+  ]
+ },
+ "0551": {
+  "fedb": "Kettlebell Turkish Get-Up (Squat style)",
+  "images": [
+   "Kettlebell_Turkish_Get-Up_Squat_style/0.jpg",
+   "Kettlebell_Turkish_Get-Up_Squat_style/1.jpg"
+  ]
+ },
+ "0552": {
+  "fedb": "Two-Arm Kettlebell Clean",
+  "images": [
+   "Two-Arm_Kettlebell_Clean/0.jpg",
+   "Two-Arm_Kettlebell_Clean/1.jpg"
+  ]
+ },
+ "0553": {
+  "fedb": "Two-Arm Kettlebell Military Press",
+  "images": [
+   "Two-Arm_Kettlebell_Military_Press/0.jpg",
+   "Two-Arm_Kettlebell_Military_Press/1.jpg"
+  ]
+ },
+ "0554": {
+  "fedb": "Kettlebell Windmill",
+  "images": [
+   "Kettlebell_Windmill/0.jpg",
+   "Kettlebell_Windmill/1.jpg"
+  ]
+ },
+ "0558": {
+  "fedb": "Kipping Muscle Up",
+  "images": [
+   "Kipping_Muscle_Up/0.jpg",
+   "Kipping_Muscle_Up/1.jpg"
+  ]
+ },
+ "0560": {
+  "fedb": "Kneeling Hip Flexor",
+  "images": [
+   "Kneeling_Hip_Flexor/0.jpg",
+   "Kneeling_Hip_Flexor/1.jpg"
+  ]
+ },
+ "0562": {
+  "fedb": "Landmine 180's",
+  "images": [
+   "Landmine_180s/0.jpg",
+   "Landmine_180s/1.jpg"
+  ]
+ },
+ "0564": {
+  "fedb": "Lateral Box Jump",
+  "images": [
+   "Lateral_Box_Jump/0.jpg",
+   "Lateral_Box_Jump/1.jpg"
+  ]
+ },
+ "0570": {
+  "fedb": "Flat Bench Leg Pull-In",
+  "images": [
+   "Flat_Bench_Leg_Pull-In/0.jpg",
+   "Flat_Bench_Leg_Pull-In/1.jpg"
+  ]
+ },
+ "0577": {
+  "fedb": "Leverage Chest Press",
+  "images": [
+   "Leverage_Chest_Press/0.jpg",
+   "Leverage_Chest_Press/1.jpg"
+  ]
+ },
+ "0578": {
+  "fedb": "Leverage Deadlift",
+  "images": [
+   "Leverage_Deadlift/0.jpg",
+   "Leverage_Deadlift/1.jpg"
+  ]
+ },
+ "0581": {
+  "fedb": "Leverage High Row",
+  "images": [
+   "Leverage_High_Row/0.jpg",
+   "Leverage_High_Row/1.jpg"
+  ]
+ },
+ "0593": {
+  "fedb": "Reverse Hyperextension",
+  "images": [
+   "Reverse_Hyperextension/0.jpg",
+   "Reverse_Hyperextension/1.jpg"
+  ]
+ },
+ "0594": {
+  "fedb": "Seated Calf Raise",
+  "images": [
+   "Seated_Calf_Raise/0.jpg",
+   "Seated_Calf_Raise/1.jpg"
+  ]
+ },
+ "0599": {
+  "fedb": "Seated Leg Curl",
+  "images": [
+   "Seated_Leg_Curl/0.jpg",
+   "Seated_Leg_Curl/1.jpg"
+  ]
+ },
+ "0603": {
+  "fedb": "Leverage Shoulder Press",
+  "images": [
+   "Leverage_Shoulder_Press/0.jpg",
+   "Leverage_Shoulder_Press/1.jpg"
+  ]
+ },
+ "0609": {
+  "fedb": "London Bridges",
+  "images": [
+   "London_Bridges/0.jpg",
+   "London_Bridges/1.jpg"
+  ]
+ },
+ "0620": {
+  "fedb": "Flat Bench Lying Leg Raise",
+  "images": [
+   "Flat_Bench_Lying_Leg_Raise/0.jpg",
+   "Flat_Bench_Lying_Leg_Raise/1.jpg"
+  ]
+ },
+ "0627": {
+  "fedb": "Mixed Grip Chin",
+  "images": [
+   "Mixed_Grip_Chin/0.jpg",
+   "Mixed_Grip_Chin/1.jpg"
+  ]
+ },
+ "0630": {
+  "fedb": "Mountain Climbers",
+  "images": [
+   "Mountain_Climbers/0.jpg",
+   "Mountain_Climbers/1.jpg"
+  ]
+ },
+ "0631": {
+  "fedb": "Muscle Up",
+  "images": [
+   "Muscle_Up/0.jpg",
+   "Muscle_Up/1.jpg"
+  ]
+ },
+ "0635": {
+  "fedb": "Oblique Crunches - On The Floor",
+  "images": [
+   "Oblique_Crunches_-_On_The_Floor/0.jpg",
+   "Oblique_Crunches_-_On_The_Floor/1.jpg"
+  ]
+ },
+ "0638": {
+  "fedb": "One Arm Chin-Up",
+  "images": [
+   "One_Arm_Chin-Up/0.jpg",
+   "One_Arm_Chin-Up/1.jpg"
+  ]
+ },
+ "0640": {
+  "fedb": "One-Arm Medicine Ball Slam",
+  "images": [
+   "One-Arm_Medicine_Ball_Slam/0.jpg",
+   "One-Arm_Medicine_Ball_Slam/1.jpg"
+  ]
+ },
+ "0641": {
+  "fedb": "Otis-Up",
+  "images": [
+   "Otis-Up/0.jpg",
+   "Otis-Up/1.jpg"
+  ]
+ },
+ "0643": {
+  "fedb": "Overhead Stretch",
+  "images": [
+   "Overhead_Stretch/0.jpg",
+   "Overhead_Stretch/1.jpg"
+  ]
+ },
+ "0648": {
+  "fedb": "Power Clean",
+  "images": [
+   "Power_Clean/0.jpg",
+   "Power_Clean/1.jpg"
+  ]
+ },
+ "0652": {
+  "fedb": "Pullups",
+  "images": [
+   "Pullups/0.jpg",
+   "Pullups/1.jpg"
+  ]
+ },
+ "0662": {
+  "fedb": "Pushups",
+  "images": [
+   "Pushups/0.jpg",
+   "Pushups/1.jpg"
+  ]
+ },
+ "0664": {
+  "fedb": "Push Up to Side Plank",
+  "images": [
+   "Push_Up_to_Side_Plank/0.jpg",
+   "Push_Up_to_Side_Plank/1.jpg"
+  ]
+ },
+ "0677": {
+  "fedb": "Ring Dips",
+  "images": [
+   "Ring_Dips/0.jpg",
+   "Ring_Dips/1.jpg"
+  ]
+ },
+ "0678": {
+  "fedb": "Rocky Pull-Ups/Pulldowns",
+  "images": [
+   "Rocky_Pull-Ups_Pulldowns/0.jpg",
+   "Rocky_Pull-Ups_Pulldowns/1.jpg"
+  ]
+ },
+ "0680": {
+  "fedb": "Rope Climb",
+  "images": [
+   "Rope_Climb/0.jpg",
+   "Rope_Climb/1.jpg"
+  ]
+ },
+ "0687": {
+  "fedb": "Russian Twist",
+  "images": [
+   "Russian_Twist/0.jpg",
+   "Russian_Twist/1.jpg"
+  ]
+ },
+ "0688": {
+  "fedb": "Scapular Pull-Up",
+  "images": [
+   "Scapular_Pull-Up/0.jpg",
+   "Scapular_Pull-Up/1.jpg"
+  ]
+ },
+ "0706": {
+  "fedb": "Side Bridge",
+  "images": [
+   "Side_Bridge/0.jpg",
+   "Side_Bridge/1.jpg"
+  ]
+ },
+ "0720": {
+  "fedb": "Side To Side Chins",
+  "images": [
+   "Side_To_Side_Chins/0.jpg",
+   "Side_To_Side_Chins/1.jpg"
+  ]
+ },
+ "0725": {
+  "fedb": "Single-Arm Push-Up",
+  "images": [
+   "Single-Arm_Push-Up/0.jpg",
+   "Single-Arm_Push-Up/1.jpg"
+  ]
+ },
+ "0736": {
+  "fedb": "Sit-Up",
+  "images": [
+   "Sit-Up/0.jpg",
+   "Sit-Up/1.jpg"
+  ]
+ },
+ "0743": {
+  "fedb": "Hack Squat",
+  "images": [
+   "Hack_Squat/0.jpg",
+   "Hack_Squat/1.jpg"
+  ]
+ },
+ "0748": {
+  "fedb": "Smith Machine Bench Press",
+  "images": [
+   "Smith_Machine_Bench_Press/0.jpg",
+   "Smith_Machine_Bench_Press/1.jpg"
+  ]
+ },
+ "0751": {
+  "fedb": "Smith Machine Close-Grip Bench Press",
+  "images": [
+   "Smith_Machine_Close-Grip_Bench_Press/0.jpg",
+   "Smith_Machine_Close-Grip_Bench_Press/1.jpg"
+  ]
+ },
+ "0753": {
+  "fedb": "Decline Smith Press",
+  "images": [
+   "Decline_Smith_Press/0.jpg",
+   "Decline_Smith_Press/1.jpg"
+  ]
+ },
+ "0757": {
+  "fedb": "Smith Machine Incline Bench Press",
+  "images": [
+   "Smith_Machine_Incline_Bench_Press/0.jpg",
+   "Smith_Machine_Incline_Bench_Press/1.jpg"
+  ]
+ },
+ "0768": {
+  "fedb": "Smith Single-Leg Split Squat",
+  "images": [
+   "Smith_Single-Leg_Split_Squat/0.jpg",
+   "Smith_Single-Leg_Split_Squat/1.jpg"
+  ]
+ },
+ "0775": {
+  "fedb": "Smith Machine Upright Row",
+  "images": [
+   "Smith_Machine_Upright_Row/0.jpg",
+   "Smith_Machine_Upright_Row/1.jpg"
+  ]
+ },
+ "0776": {
+  "fedb": "Snatch Pull",
+  "images": [
+   "Snatch_Pull/0.jpg",
+   "Snatch_Pull/1.jpg"
+  ]
+ },
+ "0777": {
+  "fedb": "Spell Caster",
+  "images": [
+   "Spell_Caster/0.jpg",
+   "Spell_Caster/1.jpg"
+  ]
+ },
+ "0786": {
+  "fedb": "Squat Jerk",
+  "images": [
+   "Squat_Jerk/0.jpg",
+   "Squat_Jerk/1.jpg"
+  ]
+ },
+ "0788": {
+  "fedb": "Standing Barbell Press Behind Neck",
+  "images": [
+   "Standing_Barbell_Press_Behind_Neck/0.jpg",
+   "Standing_Barbell_Press_Behind_Neck/1.jpg"
+  ]
+ },
+ "0794": {
+  "fedb": "Standing Lateral Stretch",
+  "images": [
+   "Standing_Lateral_Stretch/0.jpg",
+   "Standing_Lateral_Stretch/1.jpg"
+  ]
+ },
+ "0806": {
+  "fedb": "Suspended Push-Up",
+  "images": [
+   "Suspended_Push-Up/0.jpg",
+   "Suspended_Push-Up/1.jpg"
+  ]
+ },
+ "0807": {
+  "fedb": "Suspended Reverse Crunch",
+  "images": [
+   "Suspended_Reverse_Crunch/0.jpg",
+   "Suspended_Reverse_Crunch/1.jpg"
+  ]
+ },
+ "0808": {
+  "fedb": "Suspended Row",
+  "images": [
+   "Suspended_Row/0.jpg",
+   "Suspended_Row/1.jpg"
+  ]
+ },
+ "0809": {
+  "fedb": "Suspended Split Squat",
+  "images": [
+   "Suspended_Split_Squat/0.jpg",
+   "Suspended_Split_Squat/1.jpg"
+  ]
+ },
+ "0811": {
+  "fedb": "Trap Bar Deadlift",
+  "images": [
+   "Trap_Bar_Deadlift/0.jpg",
+   "Trap_Bar_Deadlift/1.jpg"
+  ]
+ },
+ "0817": {
+  "fedb": "Triceps Stretch",
+  "images": [
+   "Triceps_Stretch/0.jpg",
+   "Triceps_Stretch/1.jpg"
+  ]
+ },
+ "0830": {
+  "fedb": "Weighted Bench Dip",
+  "images": [
+   "Weighted_Bench_Dip/0.jpg",
+   "Weighted_Bench_Dip/1.jpg"
+  ]
+ },
+ "0841": {
+  "fedb": "Weighted Pull Ups",
+  "images": [
+   "Weighted_Pull_Ups/0.jpg",
+   "Weighted_Pull_Ups/1.jpg"
+  ]
+ },
+ "0852": {
+  "fedb": "Weighted Squat",
+  "images": [
+   "Weighted_Squat/0.jpg",
+   "Weighted_Squat/1.jpg"
+  ]
+ },
+ "0858": {
+  "fedb": "Wind Sprints",
+  "images": [
+   "Wind_Sprints/0.jpg",
+   "Wind_Sprints/1.jpg"
+  ]
+ },
+ "0859": {
+  "fedb": "Wrist Roller",
+  "images": [
+   "Wrist_Roller/0.jpg",
+   "Wrist_Roller/1.jpg"
+  ]
+ },
+ "0861": {
+  "fedb": "Seated Cable Rows",
+  "images": [
+   "Seated_Cable_Rows/0.jpg",
+   "Seated_Cable_Rows/1.jpg"
+  ]
+ },
+ "0870": {
+  "fedb": "Butt-Ups",
+  "images": [
+   "Butt-Ups/0.jpg",
+   "Butt-Ups/1.jpg"
+  ]
+ },
+ "0871": {
+  "fedb": "Tuck Crunch",
+  "images": [
+   "Tuck_Crunch/0.jpg",
+   "Tuck_Crunch/1.jpg"
+  ]
+ },
+ "0872": {
+  "fedb": "Reverse Crunch",
+  "images": [
+   "Reverse_Crunch/0.jpg",
+   "Reverse_Crunch/1.jpg"
+  ]
+ },
+ "0873": {
+  "fedb": "Cable Reverse Crunch",
+  "images": [
+   "Cable_Reverse_Crunch/0.jpg",
+   "Cable_Reverse_Crunch/1.jpg"
+  ]
+ },
+ "0894": {
+  "fedb": "Calf Raises - With Bands",
+  "images": [
+   "Calf_Raises_-_With_Bands/0.jpg",
+   "Calf_Raises_-_With_Bands/1.jpg"
+  ]
+ },
+ "0901": {
+  "fedb": "Hip Extension with Bands",
+  "images": [
+   "Hip_Extension_with_Bands/0.jpg",
+   "Hip_Extension_with_Bands/1.jpg"
+  ]
+ },
+ "0907": {
+  "fedb": "Lateral Raise - With Bands",
+  "images": [
+   "Lateral_Raise_-_With_Bands/0.jpg",
+   "Lateral_Raise_-_With_Bands/1.jpg"
+  ]
+ },
+ "0934": {
+  "fedb": "Upright Row - With Bands",
+  "images": [
+   "Upright_Row_-_With_Bands/0.jpg",
+   "Upright_Row_-_With_Bands/1.jpg"
+  ]
+ },
+ "0945": {
+  "fedb": "Child's Pose",
+  "images": [
+   "Childs_Pose/0.jpg",
+   "Childs_Pose/1.jpg"
+  ]
+ },
+ "0970": {
+  "fedb": "Band Assisted Pull-Up",
+  "images": [
+   "Band_Assisted_Pull-Up/0.jpg",
+   "Band_Assisted_Pull-Up/1.jpg"
+  ]
+ },
+ "0997": {
+  "fedb": "Shoulder Press - With Bands",
+  "images": [
+   "Shoulder_Press_-_With_Bands/0.jpg",
+   "Shoulder_Press_-_With_Bands/1.jpg"
+  ]
+ },
+ "1004": {
+  "fedb": "Squats - With Bands",
+  "images": [
+   "Squats_-_With_Bands/0.jpg",
+   "Squats_-_With_Bands/1.jpg"
+  ]
+ },
+ "10168": {
+  "fedb": "Bodyweight Squat",
+  "images": [
+   "Bodyweight_Squat/0.jpg",
+   "Bodyweight_Squat/1.jpg"
+  ]
+ },
+ "1044": {
+  "fedb": "Plate Pinch",
+  "images": [
+   "Plate_Pinch/0.jpg",
+   "Plate_Pinch/1.jpg"
+  ]
+ },
+ "1046": {
+  "fedb": "Elevated Cable Rows",
+  "images": [
+   "Elevated_Cable_Rows/0.jpg",
+   "Elevated_Cable_Rows/1.jpg"
+  ]
+ },
+ "1047": {
+  "fedb": "Close-Grip Front Lat Pulldown",
+  "images": [
+   "Close-Grip_Front_Lat_Pulldown/0.jpg",
+   "Close-Grip_Front_Lat_Pulldown/1.jpg"
+  ]
+ },
+ "1051": {
+  "fedb": "Cat Stretch",
+  "images": [
+   "Cat_Stretch/0.jpg",
+   "Cat_Stretch/1.jpg"
+  ]
+ },
+ "1060": {
+  "fedb": "Barbell Hip Thrust",
+  "images": [
+   "Barbell_Hip_Thrust/0.jpg",
+   "Barbell_Hip_Thrust/1.jpg"
+  ]
+ },
+ "11060": {
+  "fedb": "External Rotation with Cable",
+  "images": [
+   "External_Rotation_with_Cable/0.jpg",
+   "External_Rotation_with_Cable/1.jpg"
+  ]
+ },
+ "1162": {
+  "fedb": "Standing Military Press",
+  "images": [
+   "Standing_Military_Press/0.jpg",
+   "Standing_Military_Press/1.jpg"
+  ]
+ },
+ "1166": {
+  "fedb": "Split Jump",
+  "images": [
+   "Split_Jump/0.jpg",
+   "Split_Jump/1.jpg"
+  ]
+ },
+ "1167": {
+  "fedb": "Dynamic Chest Stretch",
+  "images": [
+   "Dynamic_Chest_Stretch/0.jpg",
+   "Dynamic_Chest_Stretch/1.jpg"
+  ]
+ },
+ "1176": {
+  "fedb": "Front Incline Dumbbell Raise",
+  "images": [
+   "Front_Incline_Dumbbell_Raise/0.jpg",
+   "Front_Incline_Dumbbell_Raise/1.jpg"
+  ]
+ },
+ "11903": {
+  "fedb": "Standing Hip Flexors",
+  "images": [
+   "Standing_Hip_Flexors/0.jpg",
+   "Standing_Hip_Flexors/1.jpg"
+  ]
+ },
+ "1194": {
+  "fedb": "Lying T-Bar Row",
+  "images": [
+   "Lying_T-Bar_Row/0.jpg",
+   "Lying_T-Bar_Row/1.jpg"
+  ]
+ },
+ "1200": {
+  "fedb": "Push Press",
+  "images": [
+   "Push_Press/0.jpg",
+   "Push_Press/1.jpg"
+  ]
+ },
+ "1204": {
+  "fedb": "One Arm Lat Pulldown",
+  "images": [
+   "One_Arm_Lat_Pulldown/0.jpg",
+   "One_Arm_Lat_Pulldown/1.jpg"
+  ]
+ },
+ "1206": {
+  "fedb": "Pull Through",
+  "images": [
+   "Pull_Through/0.jpg",
+   "Pull_Through/1.jpg"
+  ]
+ },
+ "1228": {
+  "fedb": "Standing Inner-Biceps Curl",
+  "images": [
+   "Standing_Inner-Biceps_Curl/0.jpg",
+   "Standing_Inner-Biceps_Curl/1.jpg"
+  ]
+ },
+ "1254": {
+  "fedb": "Bench Press - With Bands",
+  "images": [
+   "Bench_Press_-_With_Bands/0.jpg",
+   "Bench_Press_-_With_Bands/1.jpg"
+  ]
+ },
+ "1259": {
+  "fedb": "Behind Head Chest Stretch",
+  "images": [
+   "Behind_Head_Chest_Stretch/0.jpg",
+   "Behind_Head_Chest_Stretch/1.jpg"
+  ]
+ },
+ "1271": {
+  "fedb": "Chest And Front Of Shoulder Stretch",
+  "images": [
+   "Chest_And_Front_Of_Shoulder_Stretch/0.jpg",
+   "Chest_And_Front_Of_Shoulder_Stretch/1.jpg"
+  ]
+ },
+ "1275": {
+  "fedb": "Drop Push",
+  "images": [
+   "Drop_Push/0.jpg",
+   "Drop_Push/1.jpg"
+  ]
+ },
+ "1285": {
+  "fedb": "One-Arm Flat Bench Dumbbell Flye",
+  "images": [
+   "One-Arm_Flat_Bench_Dumbbell_Flye/0.jpg",
+   "One-Arm_Flat_Bench_Dumbbell_Flye/1.jpg"
+  ]
+ },
+ "1297": {
+  "fedb": "Isometric Chest Squeezes",
+  "images": [
+   "Isometric_Chest_Squeezes/0.jpg",
+   "Isometric_Chest_Squeezes/1.jpg"
+  ]
+ },
+ "1298": {
+  "fedb": "One-Arm Kettlebell Floor Press",
+  "images": [
+   "One-Arm_Kettlebell_Floor_Press/0.jpg",
+   "One-Arm_Kettlebell_Floor_Press/1.jpg"
+  ]
+ },
+ "1299": {
+  "fedb": "Leverage Incline Chest Press",
+  "images": [
+   "Leverage_Incline_Chest_Press/0.jpg",
+   "Leverage_Incline_Chest_Press/1.jpg"
+  ]
+ },
+ "1300": {
+  "fedb": "Leverage Decline Chest Press",
+  "images": [
+   "Leverage_Decline_Chest_Press/0.jpg",
+   "Leverage_Decline_Chest_Press/1.jpg"
+  ]
+ },
+ "1302": {
+  "fedb": "Medicine Ball Chest Pass",
+  "images": [
+   "Medicine_Ball_Chest_Pass/0.jpg",
+   "Medicine_Ball_Chest_Pass/1.jpg"
+  ]
+ },
+ "1303": {
+  "fedb": "Chest Push from 3 point stance",
+  "images": [
+   "Chest_Push_from_3_point_stance/0.jpg",
+   "Chest_Push_from_3_point_stance/1.jpg"
+  ]
+ },
+ "1304": {
+  "fedb": "Chest Push (multiple response)",
+  "images": [
+   "Chest_Push_multiple_response/0.jpg",
+   "Chest_Push_multiple_response/1.jpg"
+  ]
+ },
+ "1306": {
+  "fedb": "Plyo Push-up",
+  "images": [
+   "Plyo_Push-up/0.jpg",
+   "Plyo_Push-up/1.jpg"
+  ]
+ },
+ "1311": {
+  "fedb": "Push-Up Wide",
+  "images": [
+   "Push-Up_Wide/0.jpg",
+   "Push-Up_Wide/1.jpg"
+  ]
+ },
+ "1316": {
+  "fedb": "Bent-Arm Barbell Pullover",
+  "images": [
+   "Bent-Arm_Barbell_Pullover/0.jpg",
+   "Bent-Arm_Barbell_Pullover/1.jpg"
+  ]
+ },
+ "1326": {
+  "fedb": "Chin-Up",
+  "images": [
+   "Chin-Up/0.jpg",
+   "Chin-Up/1.jpg"
+  ]
+ },
+ "1345": {
+  "fedb": "Two-Arm Kettlebell Row",
+  "images": [
+   "Two-Arm_Kettlebell_Row/0.jpg",
+   "Two-Arm_Kettlebell_Row/1.jpg"
+  ]
+ },
+ "1352": {
+  "fedb": "Lower Back Curl",
+  "images": [
+   "Lower_Back_Curl/0.jpg",
+   "Lower_Back_Curl/1.jpg"
+  ]
+ },
+ "1355": {
+  "fedb": "One Arm Against Wall",
+  "images": [
+   "One_Arm_Against_Wall/0.jpg",
+   "One_Arm_Against_Wall/1.jpg"
+  ]
+ },
+ "1357": {
+  "fedb": "One Handed Hang",
+  "images": [
+   "One_Handed_Hang/0.jpg",
+   "One_Handed_Hang/1.jpg"
+  ]
+ },
+ "1358": {
+  "fedb": "Side-Lying Floor Stretch",
+  "images": [
+   "Side-Lying_Floor_Stretch/0.jpg",
+   "Side-Lying_Floor_Stretch/1.jpg"
+  ]
+ },
+ "1359": {
+  "fedb": "Smith Machine Bent Over Row",
+  "images": [
+   "Smith_Machine_Bent_Over_Row/0.jpg",
+   "Smith_Machine_Bent_Over_Row/1.jpg"
+  ]
+ },
+ "1364": {
+  "fedb": "Standing Pelvic Tilt",
+  "images": [
+   "Standing_Pelvic_Tilt/0.jpg",
+   "Standing_Pelvic_Tilt/1.jpg"
+  ]
+ },
+ "1365": {
+  "fedb": "Upper Back Stretch",
+  "images": [
+   "Upper_Back_Stretch/0.jpg",
+   "Upper_Back_Stretch/1.jpg"
+  ]
+ },
+ "1367": {
+  "fedb": "Wide-Grip Rear Pull-Up",
+  "images": [
+   "Wide-Grip_Rear_Pull-Up/0.jpg",
+   "Wide-Grip_Rear_Pull-Up/1.jpg"
+  ]
+ },
+ "1368": {
+  "fedb": "Ankle Circles",
+  "images": [
+   "Ankle_Circles/0.jpg",
+   "Ankle_Circles/1.jpg"
+  ]
+ },
+ "1372": {
+  "fedb": "Standing Barbell Calf Raise",
+  "images": [
+   "Standing_Barbell_Calf_Raise/0.jpg",
+   "Standing_Barbell_Calf_Raise/1.jpg"
+  ]
+ },
+ "1377": {
+  "fedb": "Calf Stretch Hands Against Wall",
+  "images": [
+   "Calf_Stretch_Hands_Against_Wall/0.jpg",
+   "Calf_Stretch_Hands_Against_Wall/1.jpg"
+  ]
+ },
+ "1388": {
+  "fedb": "Peroneals Stretch",
+  "images": [
+   "Peroneals_Stretch/0.jpg",
+   "Peroneals_Stretch/1.jpg"
+  ]
+ },
+ "1389": {
+  "fedb": "Posterior Tibialis Stretch",
+  "images": [
+   "Posterior_Tibialis_Stretch/0.jpg",
+   "Posterior_Tibialis_Stretch/1.jpg"
+  ]
+ },
+ "1394": {
+  "fedb": "Smith Machine Reverse Calf Raises",
+  "images": [
+   "Smith_Machine_Reverse_Calf_Raises/0.jpg",
+   "Smith_Machine_Reverse_Calf_Raises/1.jpg"
+  ]
+ },
+ "1403": {
+  "fedb": "Side Neck Stretch",
+  "images": [
+   "Side_Neck_Stretch/0.jpg",
+   "Side_Neck_Stretch/1.jpg"
+  ]
+ },
+ "1408": {
+  "fedb": "Hip Lift with Band",
+  "images": [
+   "Hip_Lift_with_Band/0.jpg",
+   "Hip_Lift_with_Band/1.jpg"
+  ]
+ },
+ "1409": {
+  "fedb": "Barbell Glute Bridge",
+  "images": [
+   "Barbell_Glute_Bridge/0.jpg",
+   "Barbell_Glute_Bridge/1.jpg"
+  ]
+ },
+ "1411": {
+  "fedb": "Palms-Down Wrist Curl Over A Bench",
+  "images": [
+   "Palms-Down_Wrist_Curl_Over_A_Bench/0.jpg",
+   "Palms-Down_Wrist_Curl_Over_A_Bench/1.jpg"
+  ]
+ },
+ "1412": {
+  "fedb": "Palms-Up Barbell Wrist Curl Over A Bench",
+  "images": [
+   "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench/0.jpg",
+   "Palms-Up_Barbell_Wrist_Curl_Over_A_Bench/1.jpg"
+  ]
+ },
+ "1418": {
+  "fedb": "Hug Knees To Chest",
+  "images": [
+   "Hug_Knees_To_Chest/0.jpg",
+   "Hug_Knees_To_Chest/1.jpg"
+  ]
+ },
+ "1419": {
+  "fedb": "Iron Crosses (stretch)",
+  "images": [
+   "Iron_Crosses_stretch/0.jpg",
+   "Iron_Crosses_stretch/1.jpg"
+  ]
+ },
+ "1420": {
+  "fedb": "Kneeling Jump Squat",
+  "images": [
+   "Kneeling_Jump_Squat/0.jpg",
+   "Kneeling_Jump_Squat/1.jpg"
+  ]
+ },
+ "1422": {
+  "fedb": "Pelvic Tilt Into Bridge",
+  "images": [
+   "Pelvic_Tilt_Into_Bridge/0.jpg",
+   "Pelvic_Tilt_Into_Bridge/1.jpg"
+  ]
+ },
+ "1428": {
+  "fedb": "Wrist Circles",
+  "images": [
+   "Wrist_Circles/0.jpg",
+   "Wrist_Circles/1.jpg"
+  ]
+ },
+ "1471": {
+  "fedb": "Inchworm",
+  "images": [
+   "Inchworm/0.jpg",
+   "Inchworm/1.jpg"
+  ]
+ },
+ "1497": {
+  "fedb": "Reverse Band Bench Press",
+  "images": [
+   "Reverse_Band_Bench_Press/0.jpg",
+   "Reverse_Band_Bench_Press/1.jpg"
+  ]
+ },
+ "1503": {
+  "fedb": "Band Pull Apart",
+  "images": [
+   "Band_Pull_Apart/0.jpg",
+   "Band_Pull_Apart/1.jpg"
+  ]
+ },
+ "1504": {
+  "fedb": "Band Skull Crusher",
+  "images": [
+   "Band_Skull_Crusher/0.jpg",
+   "Band_Skull_Crusher/1.jpg"
+  ]
+ },
+ "1507": {
+  "fedb": "Hip Flexion with Band",
+  "images": [
+   "Hip_Flexion_with_Band/0.jpg",
+   "Hip_Flexion_with_Band/1.jpg"
+  ]
+ },
+ "1510": {
+  "fedb": "Crossover Reverse Lunge",
+  "images": [
+   "Crossover_Reverse_Lunge/0.jpg",
+   "Crossover_Reverse_Lunge/1.jpg"
+  ]
+ },
+ "1511": {
+  "fedb": "Hamstring Stretch",
+  "images": [
+   "Hamstring_Stretch/0.jpg",
+   "Hamstring_Stretch/1.jpg"
+  ]
+ },
+ "1512": {
+  "fedb": "All Fours Quad Stretch",
+  "images": [
+   "All_Fours_Quad_Stretch/0.jpg",
+   "All_Fours_Quad_Stretch/1.jpg"
+  ]
+ },
+ "1513": {
+  "fedb": "Band Good Morning",
+  "images": [
+   "Band_Good_Morning/0.jpg",
+   "Band_Good_Morning/1.jpg"
+  ]
+ },
+ "1516": {
+  "fedb": "Clean from Blocks",
+  "images": [
+   "Clean_from_Blocks/0.jpg",
+   "Clean_from_Blocks/1.jpg"
+  ]
+ },
+ "1521": {
+  "fedb": "Hang Clean - Below the Knees",
+  "images": [
+   "Hang_Clean_-_Below_the_Knees/0.jpg",
+   "Hang_Clean_-_Below_the_Knees/1.jpg"
+  ]
+ },
+ "1524": {
+  "fedb": "Heaving Snatch Balance",
+  "images": [
+   "Heaving_Snatch_Balance/0.jpg",
+   "Heaving_Snatch_Balance/1.jpg"
+  ]
+ },
+ "1528": {
+  "fedb": "Power Clean from Blocks",
+  "images": [
+   "Power_Clean_from_Blocks/0.jpg",
+   "Power_Clean_from_Blocks/1.jpg"
+  ]
+ },
+ "1531": {
+  "fedb": "Power Snatch from Blocks",
+  "images": [
+   "Power_Snatch_from_Blocks/0.jpg",
+   "Power_Snatch_from_Blocks/1.jpg"
+  ]
+ },
+ "1532": {
+  "fedb": "Romanian Deadlift from Deficit",
+  "images": [
+   "Romanian_Deadlift_from_Deficit/0.jpg",
+   "Romanian_Deadlift_from_Deficit/1.jpg"
+  ]
+ },
+ "1536": {
+  "fedb": "Snatch from Blocks",
+  "images": [
+   "Snatch_from_Blocks/0.jpg",
+   "Snatch_from_Blocks/1.jpg"
+  ]
+ },
+ "1540": {
+  "fedb": "Barbell Shoulder Press",
+  "images": [
+   "Barbell_Shoulder_Press/0.jpg",
+   "Barbell_Shoulder_Press/1.jpg"
+  ]
+ },
+ "1543": {
+  "fedb": "Stiff-Legged Barbell Deadlift",
+  "images": [
+   "Stiff-Legged_Barbell_Deadlift/0.jpg",
+   "Stiff-Legged_Barbell_Deadlift/1.jpg"
+  ]
+ },
+ "1548": {
+  "fedb": "Chair Leg Extended Stretch",
+  "images": [
+   "Chair_Leg_Extended_Stretch/0.jpg",
+   "Chair_Leg_Extended_Stretch/1.jpg"
+  ]
+ },
+ "1549": {
+  "fedb": "Double Leg Butt Kick",
+  "images": [
+   "Double_Leg_Butt_Kick/0.jpg",
+   "Double_Leg_Butt_Kick/1.jpg"
+  ]
+ },
+ "1563": {
+  "fedb": "Front Leg Raises",
+  "images": [
+   "Front_Leg_Raises/0.jpg",
+   "Front_Leg_Raises/1.jpg"
+  ]
+ },
+ "1564": {
+  "fedb": "Intermediate Hip Flexor and Quad Stretch",
+  "images": [
+   "Intermediate_Hip_Flexor_and_Quad_Stretch/0.jpg",
+   "Intermediate_Hip_Flexor_and_Quad_Stretch/1.jpg"
+  ]
+ },
+ "1565": {
+  "fedb": "Kettlebell Dead Clean",
+  "images": [
+   "Kettlebell_Dead_Clean/0.jpg",
+   "Kettlebell_Dead_Clean/1.jpg"
+  ]
+ },
+ "1566": {
+  "fedb": "One-Arm Overhead Kettlebell Squats",
+  "images": [
+   "One-Arm_Overhead_Kettlebell_Squats/0.jpg",
+   "One-Arm_Overhead_Kettlebell_Squats/1.jpg"
+  ]
+ },
+ "1567": {
+  "fedb": "Open Palm Kettlebell Clean",
+  "images": [
+   "Open_Palm_Kettlebell_Clean/0.jpg",
+   "Open_Palm_Kettlebell_Clean/1.jpg"
+  ]
+ },
+ "1568": {
+  "fedb": "One-Arm Kettlebell Swings",
+  "images": [
+   "One-Arm_Kettlebell_Swings/0.jpg",
+   "One-Arm_Kettlebell_Swings/1.jpg"
+  ]
+ },
+ "1569": {
+  "fedb": "Kettlebell One-Legged Deadlift",
+  "images": [
+   "Kettlebell_One-Legged_Deadlift/0.jpg",
+   "Kettlebell_One-Legged_Deadlift/1.jpg"
+  ]
+ },
+ "1570": {
+  "fedb": "Knee Tuck Jump",
+  "images": [
+   "Knee_Tuck_Jump/0.jpg",
+   "Knee_Tuck_Jump/1.jpg"
+  ]
+ },
+ "1575": {
+  "fedb": "Narrow Stance Leg Press",
+  "images": [
+   "Narrow_Stance_Leg_Press/0.jpg",
+   "Narrow_Stance_Leg_Press/1.jpg"
+  ]
+ },
+ "1576": {
+  "fedb": "Leg-Up Hamstring Stretch",
+  "images": [
+   "Leg-Up_Hamstring_Stretch/0.jpg",
+   "Leg-Up_Hamstring_Stretch/1.jpg"
+  ]
+ },
+ "1584": {
+  "fedb": "Rocket Jump",
+  "images": [
+   "Rocket_Jump/0.jpg",
+   "Rocket_Jump/1.jpg"
+  ]
+ },
+ "1585": {
+  "fedb": "Runner's Stretch",
+  "images": [
+   "Runners_Stretch/0.jpg",
+   "Runners_Stretch/1.jpg"
+  ]
+ },
+ "1588": {
+  "fedb": "Side to Side Box Shuffle",
+  "images": [
+   "Side_to_Side_Box_Shuffle/0.jpg",
+   "Side_to_Side_Box_Shuffle/1.jpg"
+  ]
+ },
+ "1589": {
+  "fedb": "Single Leg Butt Kick",
+  "images": [
+   "Single_Leg_Butt_Kick/0.jpg",
+   "Single_Leg_Butt_Kick/1.jpg"
+  ]
+ },
+ "1591": {
+  "fedb": "Single Leg Push-off",
+  "images": [
+   "Single_Leg_Push-off/0.jpg",
+   "Single_Leg_Push-off/1.jpg"
+  ]
+ },
+ "1592": {
+  "fedb": "Single-Leg Stride Jump",
+  "images": [
+   "Single-Leg_Stride_Jump/0.jpg",
+   "Single-Leg_Stride_Jump/1.jpg"
+  ]
+ },
+ "1593": {
+  "fedb": "Sit Squats",
+  "images": [
+   "Sit_Squats/0.jpg",
+   "Sit_Squats/1.jpg"
+  ]
+ },
+ "1597": {
+  "fedb": "Smith Machine Stiff-Legged Deadlift",
+  "images": [
+   "Smith_Machine_Stiff-Legged_Deadlift/0.jpg",
+   "Smith_Machine_Stiff-Legged_Deadlift/1.jpg"
+  ]
+ },
+ "1599": {
+  "fedb": "Standing Hamstring and Calf Stretch",
+  "images": [
+   "Standing_Hamstring_and_Calf_Stretch/0.jpg",
+   "Standing_Hamstring_and_Calf_Stretch/1.jpg"
+  ]
+ },
+ "1600": {
+  "fedb": "Standing Long Jump",
+  "images": [
+   "Standing_Long_Jump/0.jpg",
+   "Standing_Long_Jump/1.jpg"
+  ]
+ },
+ "1636": {
+  "fedb": "Overhead Cable Curl",
+  "images": [
+   "Overhead_Cable_Curl/0.jpg",
+   "Overhead_Cable_Curl/1.jpg"
+  ]
+ },
+ "1672": {
+  "fedb": "One Arm Dumbbell Preacher Curl",
+  "images": [
+   "One_Arm_Dumbbell_Preacher_Curl/0.jpg",
+   "One_Arm_Dumbbell_Preacher_Curl/1.jpg"
+  ]
+ },
+ "1680": {
+  "fedb": "Standing One-Arm Dumbbell Curl Over Incline Bench",
+  "images": [
+   "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench/0.jpg",
+   "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench/1.jpg"
+  ]
+ },
+ "1731": {
+  "fedb": "Close-Grip Dumbbell Press",
+  "images": [
+   "Close-Grip_Dumbbell_Press/0.jpg",
+   "Close-Grip_Dumbbell_Press/1.jpg"
+  ]
+ },
+ "1740": {
+  "fedb": "Standing Bent-Over One-Arm Dumbbell Triceps Extension",
+  "images": [
+   "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/0.jpg",
+   "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/1.jpg"
+  ]
+ },
+ "1741": {
+  "fedb": "Standing Bent-Over Two-Arm Dumbbell Triceps Extension",
+  "images": [
+   "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/0.jpg",
+   "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/1.jpg"
+  ]
+ },
+ "1888": {
+  "fedb": "Standing Soleus And Achilles Stretch",
+  "images": [
+   "Standing_Soleus_And_Achilles_Stretch/0.jpg",
+   "Standing_Soleus_And_Achilles_Stretch/1.jpg"
+  ]
+ },
+ "2133": {
+  "fedb": "Farmer's Walk",
+  "images": [
+   "Farmers_Walk/0.jpg",
+   "Farmers_Walk/1.jpg"
+  ]
+ },
+ "2137": {
+  "fedb": "Arnold Dumbbell Press",
+  "images": [
+   "Arnold_Dumbbell_Press/0.jpg",
+   "Arnold_Dumbbell_Press/1.jpg"
+  ]
+ },
+ "2291": {
+  "fedb": "Wide-Grip Lat Pulldown",
+  "images": [
+   "Wide-Grip_Lat_Pulldown/0.jpg",
+   "Wide-Grip_Lat_Pulldown/1.jpg"
+  ]
+ },
+ "2294": {
+  "fedb": "Zottman Preacher Curl",
+  "images": [
+   "Zottman_Preacher_Curl/0.jpg",
+   "Zottman_Preacher_Curl/1.jpg"
+  ]
+ },
+ "2330": {
+  "fedb": "Full Range-Of-Motion Lat Pulldown",
+  "images": [
+   "Full_Range-Of-Motion_Lat_Pulldown/0.jpg",
+   "Full_Range-Of-Motion_Lat_Pulldown/1.jpg"
+  ]
+ },
+ "2368": {
+  "fedb": "Split Squats",
+  "images": [
+   "Split_Squats/0.jpg",
+   "Split_Squats/1.jpg"
+  ]
+ },
+ "2432": {
+  "fedb": "Close-Grip EZ-Bar Press",
+  "images": [
+   "Close-Grip_EZ-Bar_Press/0.jpg",
+   "Close-Grip_EZ-Bar_Press/1.jpg"
+  ]
+ },
+ "2459": {
+  "fedb": "Tire Flip",
+  "images": [
+   "Tire_Flip/0.jpg",
+   "Tire_Flip/1.jpg"
+  ]
+ },
+ "2469": {
+  "fedb": "Exercise Ball Crunch",
+  "images": [
+   "Exercise_Ball_Crunch/0.jpg",
+   "Exercise_Ball_Crunch/1.jpg"
+  ]
+ },
+ "2849": {
+  "fedb": "Leg Pull-In",
+  "images": [
+   "Leg_Pull-In/0.jpg",
+   "Leg_Pull-In/1.jpg"
+  ]
+ },
+ "3088": {
+  "fedb": "Frog Hops",
+  "images": [
+   "Frog_Hops/0.jpg",
+   "Frog_Hops/1.jpg"
+  ]
+ },
+ "3095": {
+  "fedb": "Lateral Bound",
+  "images": [
+   "Lateral_Bound/0.jpg",
+   "Lateral_Bound/1.jpg"
+  ]
+ },
+ "3193": {
+  "fedb": "Floor Glute-Ham Raise",
+  "images": [
+   "Floor_Glute-Ham_Raise/0.jpg",
+   "Floor_Glute-Ham_Raise/1.jpg"
+  ]
+ },
+ "3194": {
+  "fedb": "Frankenstein Squat",
+  "images": [
+   "Frankenstein_Squat/0.jpg",
+   "Frankenstein_Squat/1.jpg"
+  ]
+ },
+ "3359": {
+  "fedb": "Standing Cable Chest Press",
+  "images": [
+   "Standing_Cable_Chest_Press/0.jpg",
+   "Standing_Cable_Chest_Press/1.jpg"
+  ]
+ },
+ "3411": {
+  "fedb": "Standing Hip Circles",
+  "images": [
+   "Standing_Hip_Circles/0.jpg",
+   "Standing_Hip_Circles/1.jpg"
+  ]
+ },
+ "3436": {
+  "fedb": "Superman",
+  "images": [
+   "Superman/0.jpg",
+   "Superman/1.jpg"
+  ]
+ },
+ "3439": {
+  "fedb": "Backward Medicine Ball Throw",
+  "images": [
+   "Backward_Medicine_Ball_Throw/0.jpg",
+   "Backward_Medicine_Ball_Throw/1.jpg"
+  ]
+ },
+ "3593": {
+  "fedb": "Barbell Squat",
+  "images": [
+   "Barbell_Squat/0.jpg",
+   "Barbell_Squat/1.jpg"
+  ]
+ },
+ "3682": {
+  "fedb": "Alternate Incline Dumbbell Curl",
+  "images": [
+   "Alternate_Incline_Dumbbell_Curl/0.jpg",
+   "Alternate_Incline_Dumbbell_Curl/1.jpg"
+  ]
+ },
+ "3720": {
+  "fedb": "Star Jump",
+  "images": [
+   "Star_Jump/0.jpg",
+   "Star_Jump/1.jpg"
+  ]
+ },
+ "3730": {
+  "fedb": "Barbell Shrug Behind The Back",
+  "images": [
+   "Barbell_Shrug_Behind_The_Back/0.jpg",
+   "Barbell_Shrug_Behind_The_Back/1.jpg"
+  ]
+ },
+ "3889": {
+  "fedb": "Frog Sit-Ups",
+  "images": [
+   "Frog_Sit-Ups/0.jpg",
+   "Frog_Sit-Ups/1.jpg"
+  ]
+ },
+ "3972": {
+  "fedb": "Dumbbell Shoulder Press",
+  "images": [
+   "Dumbbell_Shoulder_Press/0.jpg",
+   "Dumbbell_Shoulder_Press/1.jpg"
+  ]
+ },
+ "3996": {
+  "fedb": "Arm Circles",
+  "images": [
+   "Arm_Circles/0.jpg",
+   "Arm_Circles/1.jpg"
+  ]
+ },
+ "4029": {
+  "fedb": "Band Hip Adductions",
+  "images": [
+   "Band_Hip_Adductions/0.jpg",
+   "Band_Hip_Adductions/1.jpg"
+  ]
+ },
+ "4064": {
+  "fedb": "Squat with Chains",
+  "images": [
+   "Squat_with_Chains/0.jpg",
+   "Squat_with_Chains/1.jpg"
+  ]
+ },
+ "4288": {
+  "fedb": "Middle Back Stretch",
+  "images": [
+   "Middle_Back_Stretch/0.jpg",
+   "Middle_Back_Stretch/1.jpg"
+  ]
+ },
+ "4326": {
+  "fedb": "Bent-Arm Dumbbell Pullover",
+  "images": [
+   "Bent-Arm_Dumbbell_Pullover/0.jpg",
+   "Bent-Arm_Dumbbell_Pullover/1.jpg"
+  ]
+ },
+ "4343": {
+  "fedb": "Dumbbell One-Arm Triceps Extension",
+  "images": [
+   "Dumbbell_One-Arm_Triceps_Extension/0.jpg",
+   "Dumbbell_One-Arm_Triceps_Extension/1.jpg"
+  ]
+ },
+ "4344": {
+  "fedb": "Incline Barbell Triceps Extension",
+  "images": [
+   "Incline_Barbell_Triceps_Extension/0.jpg",
+   "Incline_Barbell_Triceps_Extension/1.jpg"
+  ]
+ },
+ "4347": {
+  "fedb": "Standing Leg Curl",
+  "images": [
+   "Standing_Leg_Curl/0.jpg",
+   "Standing_Leg_Curl/1.jpg"
+  ]
+ },
+ "4395": {
+  "fedb": "Shoulder Circles",
+  "images": [
+   "Shoulder_Circles/0.jpg",
+   "Shoulder_Circles/1.jpg"
+  ]
+ },
+ "4509": {
+  "fedb": "Chin To Chest Stretch",
+  "images": [
+   "Chin_To_Chest_Stretch/0.jpg",
+   "Chin_To_Chest_Stretch/1.jpg"
+  ]
+ },
+ "4543": {
+  "fedb": "One-Arm Kettlebell Clean",
+  "images": [
+   "One-Arm_Kettlebell_Clean/0.jpg",
+   "One-Arm_Kettlebell_Clean/1.jpg"
+  ]
+ },
+ "4633": {
+  "fedb": "World's Greatest Stretch",
+  "images": [
+   "Worlds_Greatest_Stretch/0.jpg",
+   "Worlds_Greatest_Stretch/1.jpg"
+  ]
+ },
+ "4671": {
+  "fedb": "Dynamic Back Stretch",
+  "images": [
+   "Dynamic_Back_Stretch/0.jpg",
+   "Dynamic_Back_Stretch/1.jpg"
+  ]
+ },
+ "4794": {
+  "fedb": "Single Leg Glute Bridge",
+  "images": [
+   "Single_Leg_Glute_Bridge/0.jpg",
+   "Single_Leg_Glute_Bridge/1.jpg"
+  ]
+ },
+ "4844": {
+  "fedb": "Depth Jump Leap",
+  "images": [
+   "Depth_Jump_Leap/0.jpg",
+   "Depth_Jump_Leap/1.jpg"
+  ]
+ },
+ "4928": {
+  "fedb": "Seated Calf Stretch",
+  "images": [
+   "Seated_Calf_Stretch/0.jpg",
+   "Seated_Calf_Stretch/1.jpg"
+  ]
+ },
+ "5088": {
+  "fedb": "Cable Internal Rotation",
+  "images": [
+   "Cable_Internal_Rotation/0.jpg",
+   "Cable_Internal_Rotation/1.jpg"
+  ]
+ },
+ "5160": {
+  "fedb": "Incline Push-Up Close-Grip",
+  "images": [
+   "Incline_Push-Up_Close-Grip/0.jpg",
+   "Incline_Push-Up_Close-Grip/1.jpg"
+  ]
+ },
+ "5814": {
+  "fedb": "Cable Chest Press",
+  "images": [
+   "Cable_Chest_Press/0.jpg",
+   "Cable_Chest_Press/1.jpg"
+  ]
+ },
+ "5823": {
+  "fedb": "Barbell Walking Lunge",
+  "images": [
+   "Barbell_Walking_Lunge/0.jpg",
+   "Barbell_Walking_Lunge/1.jpg"
+  ]
+ },
+ "5921": {
+  "fedb": "Preacher Hammer Dumbbell Curl",
+  "images": [
+   "Preacher_Hammer_Dumbbell_Curl/0.jpg",
+   "Preacher_Hammer_Dumbbell_Curl/1.jpg"
+  ]
+ },
+ "6221": {
+  "fedb": "Standing Dumbbell Press",
+  "images": [
+   "Standing_Dumbbell_Press/0.jpg",
+   "Standing_Dumbbell_Press/1.jpg"
+  ]
+ },
+ "7455": {
+  "fedb": "Single-Leg Lateral Hop",
+  "images": [
+   "Single-Leg_Lateral_Hop/0.jpg",
+   "Single-Leg_Lateral_Hop/1.jpg"
+  ]
+ },
+ "8431": {
+  "fedb": "Seated Overhead Stretch",
+  "images": [
+   "Seated_Overhead_Stretch/0.jpg",
+   "Seated_Overhead_Stretch/1.jpg"
+  ]
+ },
+ "9700": {
+  "fedb": "Bodyweight Walking Lunge",
+  "images": [
+   "Bodyweight_Walking_Lunge/0.jpg",
+   "Bodyweight_Walking_Lunge/1.jpg"
+  ]
+ }
+}
